@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Minh Triet
+### <div align="center">Hi 👋  I'm Minh Triet
 A Software Engineer from Vietnam
 
 Software Engineer with nearly 1 year of experience building backend systems using Java and Spring Boot. Experienced in developing RESTful APIs, implementing JWT-based authentication, and working with MySQL databases.
