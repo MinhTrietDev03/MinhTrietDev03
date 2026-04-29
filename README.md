@@ -4,13 +4,13 @@
   
 
 ### <div align="center">Hi 👋  I'm Minh Triet
-A Software Engineer from Vietnam
+Software Engineer with nearly 1 year of experience building backend systems using Java and Spring Boot.
+Experienced in designing RESTful APIs and integrating real-world payment systems
 
-Software Engineer with nearly 1 year of experience building backend systems using Java and Spring Boot. Experienced in developing RESTful APIs, implementing JWT-based authentication, and working with MySQL databases.
+Hands-on experience developing ERP modules on the Odoo platform, including customizing business workflows and handling payment transactions.
+Familiar with Docker for containerized development and deployment.
 
-Hands-on experience developing ERP modules on the Odoo platform and integrating payment systems into enterprise applications. Familiar with Docker for development and deployment workflows.
-
-Strong focus on clean code, system architecture improvement, and building stable, scalable, and efficient backend services.</div>  
+Strong interest in backend architecture, system optimization, and building scalable, production-ready applications.</div>  
   
 
 <br/>  
